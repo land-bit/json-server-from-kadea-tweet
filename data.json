@@ -1,50 +1,11 @@
 {
   "user": {
-    "item": {
+
       "name": "Bradley Ortiz",
       "username": "bradley_",
       "profile": "/Profile-Photo.jpg",
       "tweets": []
-    },
-    "name": "Bradley Ortiz",
-    "username": "bradley_",
-    "profile": "/Profile-Photo.jpg",
-    "tweets": [
-      {
-        "title": {
-          "author": "Bradley Ortiz",
-          "details": {
-            "username": "bradley_",
-            "time": "7m"
-          }
-        },
-        "avatar": "/Profile-Photo.jpg",
-        "text": "I don't know who you are",
-        "image": null,
-        "data": {
-          "reply": "0",
-          "retweet": "0",
-          "react": "0"
-        }
-      },
-      {
-        "title": {
-          "author": "Bradley Ortiz",
-          "details": {
-            "username": "bradley_",
-            "time": "7m"
-          }
-        },
-        "avatar": "/Profile-Photo.jpg",
-        "text": "okay",
-        "image": null,
-        "data": {
-          "reply": "0",
-          "retweet": "0",
-          "react": "0"
-        }
-      }
-    ]
+
   },
   "media": [
     {
