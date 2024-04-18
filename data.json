@@ -101,53 +101,53 @@
   ],
   "nav": [
     {
-      "logoAfter": "public/Icons/Twitter.svg",
+      "logoAfter": "/Icons/Twitter.svg",
       "id": "95de"
     },
     {
-      "logoAfter": "public/Icons/Home.svg",
+      "logoAfter": "/Icons/Home.svg",
       "text": "Home",
       "path": "/",
       "id": "75ba"
     },
     {
-      "logoAfter": "public/Icons/Explore.svg",
+      "logoAfter": "/Icons/Explore.svg",
       "text": "Explore",
       "path": "/",
       "id": "377e"
     },
     {
-      "logoAfter": "public/Icons/Notifications.svg",
+      "logoAfter": "/Icons/Notifications.svg",
       "text": "Notifications",
       "path": "/",
       "id": "0001"
     },
     {
-      "logoAfter": "public/Icons/Messages.svg",
+      "logoAfter": "/Icons/Messages.svg",
       "text": "Messages",
       "path": "/",
       "id": "0959"
     },
     {
-      "logoAfter": "public/Icons/Bookmarks.svg",
+      "logoAfter": "/Icons/Bookmarks.svg",
       "text": "Bookmarks",
       "path": "/",
       "id": "7ef5"
     },
     {
-      "logoAfter": "/public/Icons/Lists-Fill.svg",
+      "logoAfter": "/Icons/Lists-Fill.svg",
       "text": "Lists",
       "path": "/",
       "id": "87b2"
     },
     {
-      "logoAfter": "public/Icons/Profile.svg",
+      "logoAfter": "/Icons/Profile.svg",
       "text": "Profile",
       "path": "/bradley_",
       "id": "32d0"
     },
     {
-      "logoAfter": "public/Icons/More.svg",
+      "logoAfter": "/Icons/More.svg",
       "text": "More",
       "path": "/",
       "id": "e038"
