@@ -1,102 +1,170 @@
 {
-  "user": {
-
-      "name": "Bradley Ortiz",
-      "username": "bradley_",
-      "profile": "/Profile-Photo.jpg",
-      "tweets": []
-
+  "current-user": {
+    "name": "Bradley Ortiz",
+    "userName": "bradley_",
+    "time": "maintenant",
+    "src": "/Avatars/Profile-Photo.png"
   },
-  "media": [
+  "tweets": [
     {
-      "id":1,
-      "title": {
-        "author": "CNN",
-        "details": {
-          "username": "CNN",
-          "time": "7m"
-        }
+      "id": "745c",
+      "user": {
+        "name": "Twitter",
+        "userName": "twitter",
+        "time": "Oct 4",
+        "src": "/Tweet-Avatar/Profile-Photo-2.png"
       },
-      "avatar": "/image-1-2.png",
-      "text": "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a 'major breakthrough' that would serve to both strengthen the US steel industry and combat the global climate crisis.",
-      "image": null,
-      "data": {
-        "reply": 57,
-        "retweet": 144,
-        "react": 184
-      }
-    },
-    {
-      "id":2,
-      "title": {
-        "author": "The New York Times",
-        "details": {
-          "username": "nytimes",
-          "time": "2h"
-        }
+      "content": {
+        "text": "hello literally everyone",
+        "srcImage": "/images/image 3.png"
       },
-      "avatar": "/image-1.png",
-      "text": "Gardening boomed during the pandemic. Six Black writers share how it has helped them re-establish, and reimagine, a connection to cultivation and the land.",
-      "image": "/image-3.png",
-      "data": {
-        "reply": 19,
-        "retweet": 48,
-        "react": 482
-      }
-    },
-    {
-      "id":3,
-      "title": {
-        "author": "Twitter",
-        "details": {
-          "username": "Twitter",
-          "time": "Oct 29"
-        }
-      },
-      "avatar": "/Profile-Photo-3.png",
-      "text": "BIG NEWS lol jk still Twitter",
-      "image": null,
-      "data": {
-        "reply": "6.8k",
-        "retweet": "36.6k",
-        "react": "267.1k"
-      }
-    },
-    {
-      "id":4,
-      "title": {
-        "author": "Twitter",
-        "details": {
-          "username": "Twitter",
-          "time": "Oct 4"
-        }
-      },
-      "avatar": "/Profile-Photo-3.png",
-      "text": "hello literally everyone",
-      "image": null,
-      "data": {
-        "reply": "118.7k",
+      "actions": {
+        "comments": "118.7k",
         "retweet": "785.4k",
-        "react": "3.3M"
+        "like": "3.3k",
+        "state": true
       }
     },
     {
-      "id":5,
-      "title": {
-        "author": "Twitter",
-        "details": {
-          "username": "Twitter",
-          "time": "Oct 4"
-        }
+      "id": "b8ee",
+      "user": {
+        "name": "Twitter",
+        "userName": "twitter",
+        "time": "Oct 4",
+        "src": "/Tweet-Avatar/Profile-Photo-2.png"
       },
-      "avatar": "/Profile-Photo-3.png",
-      "text": "hello literally everyone",
-      "image": "/image-3.png",
-      "data": {
-        "reply": "118.7k",
+      "content": {
+        "text": "hello literally everyone"
+      },
+      "actions": {
+        "comments": "118.7k",
         "retweet": "785.4k",
-        "react": "3.3M"
+        "like": "3.3k",
+        "state": true
       }
+    },
+    {
+      "id": "fa33",
+      "user": {
+        "name": "Twitter",
+        "userName": "twitter",
+        "time": "Oct 29",
+        "src": "/Tweet-Avatar/Profile-Photo-2.png"
+      },
+      "content": {
+        "text": "BIG NEWS lol jk still Twitter"
+      },
+      "actions": {
+        "comments": "6.8k",
+        "retweet": "36.8k",
+        "like": "267.1k",
+        "state": true
+      }
+    },
+    {
+      "id": "1d06",
+      "user": {
+        "name": "The New York Times",
+        "userName": "nytimes",
+        "time": "2h",
+        "src": "/Tweet-Avatar/Profile-Photo6.png"
+      },
+      "content": {
+        "text": "Gardening boomed during the pandemic. Six Black writers share how it has helped them re-establish, and reimagine, a connection to cultivation and the land",
+        "srcImage": "/images/image 3.png"
+      },
+      "actions": {
+        "comments": "19",
+        "retweet": "48",
+        "like": "482",
+        "state": true
+      }
+    },
+    {
+      "id": "981b",
+      "user": {
+        "name": "CNN",
+        "userName": "cnn",
+        "time": "7m",
+        "src": "/Tweet-Avatar/Profile-Photo-1.png"
+      },
+      "content": {
+        "text": "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a \"major breakthrough\" that would serve to both strengthen the US steel industry and combat the global climate crisis."
+      },
+      "actions": {
+        "comments": "54",
+        "retweet": "144",
+        "like": "184",
+        "state": true
+      }
+    }
+  ],
+  "nav": [
+    {
+      "logoAfter": "public/Icons/Twitter.svg",
+      "id": "95de"
+    },
+    {
+      "logoAfter": "public/Icons/Home.svg",
+      "text": "Home",
+      "path": "/",
+      "id": "75ba"
+    },
+    {
+      "logoAfter": "public/Icons/Explore.svg",
+      "text": "Explore",
+      "path": "/",
+      "id": "377e"
+    },
+    {
+      "logoAfter": "public/Icons/Notifications.svg",
+      "text": "Notifications",
+      "path": "/",
+      "id": "0001"
+    },
+    {
+      "logoAfter": "public/Icons/Messages.svg",
+      "text": "Messages",
+      "path": "/",
+      "id": "0959"
+    },
+    {
+      "logoAfter": "public/Icons/Bookmarks.svg",
+      "text": "Bookmarks",
+      "path": "/",
+      "id": "7ef5"
+    },
+    {
+      "logoAfter": "/public/Icons/Lists-Fill.svg",
+      "text": "Lists",
+      "path": "/",
+      "id": "87b2"
+    },
+    {
+      "logoAfter": "public/Icons/Profile.svg",
+      "text": "Profile",
+      "path": "/bradley_",
+      "id": "32d0"
+    },
+    {
+      "logoAfter": "public/Icons/More.svg",
+      "text": "More",
+      "path": "/",
+      "id": "e038"
+    }
+  ],
+  "trends": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
     }
   ]
 }
